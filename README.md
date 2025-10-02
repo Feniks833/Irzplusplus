@@ -19,6 +19,20 @@ To prywatne narzędzie udostępnione na zasadzie *"as is"* – czyli bez jakiejk
 
 ---
 
+## Grafiki i tła
+
+- Grafiki i tła użyte w aplikacji mogą pochodzić z darmowych serwisów stockowych, takich jak:
+  - [Pixabay](https://pixabay.com)  
+  - [Freepik](https://www.freepik.com)  
+  - [Unsplash](https://unsplash.com)  
+  - [Pexels](https://www.pexels.com)  
+  - [Vecteezy](https://www.vecteezy.com)  
+  - [StockSnap](https://stocksnap.io)  
+
+- Wszystkie grafiki zostały pobrane i użyte zgodnie z licencjami tych serwisów.  
+- W projekcie pełnią wyłącznie funkcję **wizualnych teł** aplikacji i nie są przeznaczone do dalszego samodzielnego rozpowszechniania.  
+
+
 ### 📌 Informacja końcowa
 Projekt jest rozwijany hobbystycznie i udostępniany publicznie.  
 Proszę nie traktować go jako oficjalnego narzędzia ARiMR.  
