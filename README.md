@@ -1,38 +1,102 @@
-# Irzplusplus
+LICENCJA / DISCLAIMER – AiR
 
-**UWAGA:** Ten projekt nie jest powiązany ani wspierany przez ARiMR.  
-To prywatne narzędzie udostępnione na zasadzie *"as is"* – czyli bez jakiejkolwiek gwarancji działania.  
+UWAGA:
+Projekt AiR nie jest powiązany, autoryzowany ani wspierany przez żadną instytucję państwową ani komercyjną.
+To prywatne narzędzie udostępnione na zasadach „as is” – bez gwarancji działania lub odpowiedzialności za skutki jego używania.
 
-## Zastrzeżenia prawne i bezpieczeństwa
-- Autor **nie ponosi odpowiedzialności** za błędy, niepoprawne działanie programu ani ewentualne szkody wynikające z jego użycia.  
-- W kodzie źródłowym **nie znajdują się żadne wirusy ani złośliwe oprogramowanie**.  
-  - Niektóre programy antywirusowe (np. Avast) mogą błędnie rozpoznawać plik jako `Malware64.Gen`. Jest to **false positive**.  
-- Program **nie jest jeszcze połączony z systemami ARiMR**.  
-- Wszystkie dane użytkownika są przechowywane **lokalnie** – nic nie jest przesyłane na serwery autora.  
-- Autor **nie odpowiada** za ewentualne wycieki danych wynikające z nieprawidłowego używania programu.  
+1. Charakter projektu
 
-## Użycie
-- Korzystanie z programu odbywa się **na własną odpowiedzialność**.  
-- **Użytkownicy nie ponoszą żadnych kosztów.**  
-- **Opłaty dotyczą wyłącznie ARiMR** w przypadku integracji z systemem logowania.  
-- Pobierając i uruchamiając program, użytkownik **przejmuje pełną odpowiedzialność** za jego działanie.  
+AiR jest tworzony hobbystycznie jako niezależne narzędzie użytkowe.
+Nie stanowi oficjalnego oprogramowania żadnej instytucji ani firmy.
 
----
+Program może zawierać funkcje umożliwiające integrację z systemami zewnętrznymi oraz obsługę protokołów komunikacyjnych (np. FTPS, API, logowanie, import/eksport danych), jednak ich aktywacja wymaga świadomego działania użytkownika.
+Domyślnie program działa wyłącznie lokalnie.
 
-## Grafiki i tła
+2. Odpowiedzialność i bezpieczeństwo
 
-- Grafiki i tła użyte w aplikacji mogą pochodzić z darmowych serwisów stockowych, takich jak:
-  - [Pixabay](https://pixabay.com)  
-  - [Freepik](https://www.freepik.com)  
-  - [Unsplash](https://unsplash.com)  
-  - [Pexels](https://www.pexels.com)  
-  - [Vecteezy](https://www.vecteezy.com)  
-  - [StockSnap](https://stocksnap.io)  
+Autor nie ponosi odpowiedzialności za:
 
-- Wszystkie grafiki zostały pobrane i użyte zgodnie z licencjami tych serwisów.  
-- W projekcie pełnią wyłącznie funkcję **wizualnych teł** aplikacji i nie są przeznaczone do dalszego samodzielnego rozpowszechniania.  
+błędy działania programu,
 
+przerwy w funkcjonowaniu,
 
-### 📌 Informacja końcowa
-Projekt jest rozwijany hobbystycznie i udostępniany publicznie.  
-Proszę nie traktować go jako oficjalnego narzędzia ARiMR.  
+utratę danych,
+
+błędną interpretację wyników,
+
+szkody wynikające z nieprawidłowego użycia,
+
+konsekwencje integracji z systemami zewnętrznymi.
+
+Kod nie zawiera złośliwego oprogramowania.
+Niektóre antywirusy (np. Avast) mogą błędnie oznaczać plik jako Malware64.Gen — jest to false positive.
+
+Wszystkie dane użytkownika są przechowywane lokalnie, a program niczego nie wysyła bez inicjacji użytkownika.
+
+3. Integracja z systemami zewnętrznymi i FTPS
+
+AiR umożliwia techniczną integrację z:
+
+systemami zewnętrznymi (np. serwery instytucji, oprogramowanie firmowe, bazy danych, API),
+
+usługami typu FTPS/SFTP,
+
+modułami logowania, autoryzacji lub wymiany danych.
+
+Aktywacja tych funkcji:
+
+odbywa się wyłącznie na odpowiedzialność użytkownika,
+
+może wymagać dodatkowych zgód, certyfikatów, kluczy, kont lub uprawnień,
+
+nie oznacza, że autor programu ma z tymi systemami jakiekolwiek powiązania.
+
+Autor aplikacji nie odpowiada za konsekwencje nieprawidłowej integracji, błędnych konfiguracji, awarii serwerów zewnętrznych lub naruszeń wynikających z działań użytkownika.
+
+4. Zakaz komercyjnego wykorzystania
+
+Bez pisemnej zgody autora:
+
+zabrania się komercyjnego wykorzystywania programu AiR,
+
+sprzedaży, sublicencjonowania, oferowania płatnych usług, wdrożeń lub szkoleń opartych o AiR,
+
+pobierania opłat od osób trzecich za dostęp do programu.
+
+Każde nieautoryzowane zarabianie z wykorzystania AiR będzie traktowane jako naruszenie praw autorskich i może być ścigane zgodnie z prawem.
+
+5. Grafiki i zasoby wizualne
+
+W aplikacji mogą być używane grafiki i tła pochodzące z darmowych serwisów stockowych:
+
+Pixabay
+
+Freepik
+
+Unsplash
+
+Pexels
+
+Vecteezy
+
+StockSnap
+
+Wszystkie zostały pobrane zgodnie z licencjami tych serwisów.
+Pełnią jedynie funkcję wizualną i nie mogą być dalej rozpowszechniane jako samodzielne materiały.
+
+6. Warunki korzystania
+
+Użytkownik, pobierając i uruchamiając AiR:
+
+akceptuje wszystkie powyższe warunki,
+
+przejmuje pełną odpowiedzialność za korzystanie z programu,
+
+potwierdza, że używa programu dobrowolnie i na własne ryzyko,
+
+zobowiązuje się do używania go wyłącznie niekomercyjnie, o ile nie uzyska pisemnej zgody autora.
+
+7. Informacja końcowa
+
+AiR jest projektem tworzonym pasjonacko i publicznie udostępnianym.
+Proszę nie traktować go jako oficjalnego narzędzia żadnego podmiotu, choć umożliwia integracje techniczne z ich systemami.
