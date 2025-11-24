@@ -1,73 +1,73 @@
-LICENCJA / DISCLAIMER – AiR
+LICENCJA – AiR
 
-UWAGA:
-Projekt AiR nie jest powiązany, autoryzowany ani wspierany przez żadną instytucję państwową ani komercyjną.
-To prywatne narzędzie udostępnione na zasadach „as is” – bez gwarancji działania lub odpowiedzialności za skutki jego używania.
+AiR to niezależny projekt tworzony z pasji do technologii i praktycznych narzędzi. Nie jest związany, certyfikowany ani wspierany przez żadną instytucję publiczną czy firmę komercyjną. Program udostępniany jest w formie „as is” — tak jak jest, bez gwarancji działania i bez odpowiedzialności za sposób jego wykorzystania.
 
-1. Charakter projektu
+Charakter projektu
 
-AiR jest tworzony hobbystycznie jako niezależne narzędzie użytkowe.
-Nie stanowi oficjalnego oprogramowania żadnej instytucji ani firmy.
+AiR powstaje jako projekt hobbystyczny i eksperymentalny, rozwijany z myślą o osobach, które potrzebują lekkiego i elastycznego narzędzia do pracy z danymi czy integracjami technicznymi.
+Nie jest to oficjalne oprogramowanie żadnego podmiotu — to prywatna inicjatywa udostępniona społeczności.
 
-Program może zawierać funkcje umożliwiające integrację z systemami zewnętrznymi oraz obsługę protokołów komunikacyjnych (np. FTPS, API, logowanie, import/eksport danych), jednak ich aktywacja wymaga świadomego działania użytkownika.
-Domyślnie program działa wyłącznie lokalnie.
+Program w wersji podstawowej działa w pełni lokalnie. Funkcje komunikacji z systemami zewnętrznymi są wyłączone, dopóki użytkownik sam ich świadomie nie aktywuje.
 
-2. Odpowiedzialność i bezpieczeństwo
+Odpowiedzialność i bezpieczeństwo
 
-Autor nie ponosi odpowiedzialności za:
+Twórca AiR dokłada starań, aby narzędzie było bezpieczne i funkcjonalne, jednak nie ponosi odpowiedzialności za:
 
 błędy działania programu,
 
 przerwy w funkcjonowaniu,
 
-utratę danych,
+utratę lub uszkodzenie danych,
 
-błędną interpretację wyników,
+nieprawidłowe użycie funkcji,
 
-szkody wynikające z nieprawidłowego użycia,
+błędne interpretacje wyników,
 
-konsekwencje integracji z systemami zewnętrznymi.
+skutki integracji z systemami zewnętrznymi.
 
-Kod nie zawiera złośliwego oprogramowania.
-Niektóre antywirusy (np. Avast) mogą błędnie oznaczać plik jako Malware64.Gen — jest to false positive.
+Kod nie zawiera elementów złośliwych. Zgłaszane przez niektóre antywirusy alerty typu “Malware64.Gen” mogą być fałszywymi alarmami wynikającymi z metody kompilacji.
 
-Wszystkie dane użytkownika są przechowywane lokalnie, a program niczego nie wysyła bez inicjacji użytkownika.
+Wszystkie dane pozostają na urządzeniu użytkownika — program nie wysyła niczego bez wyraźnego działania osoby korzystającej.
 
-3. Integracja z systemami zewnętrznymi i FTPS
+Integracje, FTPS i systemy zewnętrzne
 
-AiR umożliwia techniczną integrację z:
+AiR oferuje możliwość technicznej integracji m.in. z:
 
-systemami zewnętrznymi (np. serwery instytucji, oprogramowanie firmowe, bazy danych, API),
+serwerami FTPS/SFTP,
 
-usługami typu FTPS/SFTP,
+API,
 
-modułami logowania, autoryzacji lub wymiany danych.
+bazami danych,
 
-Aktywacja tych funkcji:
+systemami zewnętrznymi.
+
+Aktywacja tych modułów:
+
+jest dobrowolna,
+
+wymaga dodatkowych zgód, certyfikatów lub uprawnień,
 
 odbywa się wyłącznie na odpowiedzialność użytkownika,
 
-może wymagać dodatkowych zgód, certyfikatów, kluczy, kont lub uprawnień,
+nie oznacza żadnego partnerstwa czy powiązania autora z tymi systemami.
 
-nie oznacza, że autor programu ma z tymi systemami jakiekolwiek powiązania.
+Twórca nie odpowiada za skutki wynikające z błędnych konfiguracji, przerw w działaniu serwerów, awarii transmisji lub nieprawidłowego użycia integracji.
 
-Autor aplikacji nie odpowiada za konsekwencje nieprawidłowej integracji, błędnych konfiguracji, awarii serwerów zewnętrznych lub naruszeń wynikających z działań użytkownika.
+Zasady użytkowania i prawa autorskie
 
-4. Zakaz komercyjnego wykorzystania
+Bez pisemnej zgody autora zabronione jest:
 
-Bez pisemnej zgody autora:
+komercyjne wykorzystywanie AiR,
 
-zabrania się komercyjnego wykorzystywania programu AiR,
+sprzedaż, sublicencjonowanie, wdrożenia i szkolenia oparte o AiR,
 
-sprzedaży, sublicencjonowania, oferowania płatnych usług, wdrożeń lub szkoleń opartych o AiR,
+pobieranie opłat za dostęp do programu.
 
-pobierania opłat od osób trzecich za dostęp do programu.
+Każda forma zarobkowego użycia narzędzia bez zgody będzie traktowana jako naruszenie praw autorskich.
 
-Każde nieautoryzowane zarabianie z wykorzystania AiR będzie traktowane jako naruszenie praw autorskich i może być ścigane zgodnie z prawem.
+Grafiki i materiały wizualne
 
-5. Grafiki i zasoby wizualne
-
-W aplikacji mogą być używane grafiki i tła pochodzące z darmowych serwisów stockowych:
+Program może korzystać z zasobów graficznych pochodzących m.in. z:
 
 Pixabay
 
@@ -81,22 +81,21 @@ Vecteezy
 
 StockSnap
 
-Wszystkie zostały pobrane zgodnie z licencjami tych serwisów.
-Pełnią jedynie funkcję wizualną i nie mogą być dalej rozpowszechniane jako samodzielne materiały.
+Wszystkie wykorzystane materiały zostały pobrane zgodnie z licencjami. Ich użycie ma wyłącznie charakter wizualny — nie mogą być dalej rozpowszechniane jako samodzielne zasoby.
 
-6. Warunki korzystania
+Warunki korzystania
 
-Użytkownik, pobierając i uruchamiając AiR:
+Korzystając z AiR, użytkownik:
 
-akceptuje wszystkie powyższe warunki,
+akceptuje wszystkie powyższe zasady,
 
-przejmuje pełną odpowiedzialność za korzystanie z programu,
+używa programu dobrowolnie i na własne ryzyko,
 
-potwierdza, że używa programu dobrowolnie i na własne ryzyko,
+bierze odpowiedzialność za konfigurację i integracje zewnętrzne,
 
-zobowiązuje się do używania go wyłącznie niekomercyjnie, o ile nie uzyska pisemnej zgody autora.
+zobowiązuje się do niekomercyjnego użycia, o ile nie uzyska zgody autora.
 
-7. Informacja końcowa
+Informacja końcowa
 
-AiR jest projektem tworzonym pasjonacko i publicznie udostępnianym.
-Proszę nie traktować go jako oficjalnego narzędzia żadnego podmiotu, choć umożliwia integracje techniczne z ich systemami.
+AiR powstaje z pasji do technologii, analityki i automatyzacji. Udostępniany publicznie, aby mógł pomagać innym — ale nie zastępuje oficjalnych narzędzi instytucji.
+To projekt rozwijany z sercem i troską o jakość, jednak przeznaczony dla świadomych użytkowników.
